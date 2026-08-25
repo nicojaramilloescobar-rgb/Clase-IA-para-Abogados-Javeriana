@@ -2,9 +2,9 @@
 
 **Pontificia Universidad Javeriana · 2026-II · Docente: Pedro Ardila**
 
-> **Estudiante:** [escribe aquí tu nombre completo]
-> **Nombre del proyecto:** [escribe aquí el nombre de tu herramienta]
-> **Fecha de inicio:** [AAAA-MM-DD]
+> **Estudiante:** Nicolás Jaramillo Escobar
+> **Nombre del proyecto:** IA para estudio de Títulos
+> **Fecha de inicio:** 2026-08-25
 
 ---
 
@@ -18,30 +18,31 @@ Bienvenido/a a tu repositorio de proyecto. **Este archivo es tu tablero de mando
 
 ## 📋 Parte 1 — Descripción del proyecto
 
-> Completa cada sección con 3–10 frases. Sé concreto/a: esta descripción es la que tu IA usará como contexto y la que el docente usará para realimentarte.
+App LegalTech que automatiza el estudio de títulos de bienes inmuebles. Analiza escrituras, certificados de tradición y demás documentos jurídicos para reconstruir la historia del inmueble, identificar propietarios, gravámenes, limitaciones y posibles riesgos. Genera informes claros y organizados, reduciendo el tiempo, los costos y los errores del proceso.
 
 ### 1.1 El problema jurídico
-¿Qué problema **real del derecho colombiano** resuelve tu herramienta? ¿Quién lo sufre hoy y cómo lo resuelve sin tu herramienta?
+El estudio de títulos de inmuebles es un proceso lento y complejo, que requiere revisar muchos documentos para identificar propietarios, transferencias, gravámenes y posibles riesgos. La app busca automatizar esta revisión y facilitar la detección de inconsistencias.
 
 ### 1.2 Usuarios
-¿Quién va a usarla? Describe a tu usuario ideal en una frase (ej. *"un arrendatario bogotano que le subieron el canon de arrendamiento más del límite legal"*). Recuerda que al final necesitas **al menos un usuario real** que la pruebe.
+Abogados, notarías, inmobiliarias, bancos y compradores de bienes inmuebles que necesiten realizar estudios de títulos de forma rápida y segura.
 
 ### 1.3 Qué hace y qué NO hace (alcance)
-| ✅ Sí hace | ❌ No hace |
-| --- | --- |
-| [funcionalidad 1] | [fuera de alcance 1] |
-| [funcionalidad 2] | [fuera de alcance 2] |
 
-*Consejo de abogado: un alcance pequeño y perfecto vale más que uno grande y roto.*
+| ✅ Sí hace                               | ❌ No hace                                            
+| --------------------------------------- | ------------------------------------------------------- |
+| Analiza documentos jurídicos.           | No reemplaza al abogado.                                |
+| Identifica propietarios y antecedentes. | No toma decisiones jurídicas definitivas.               |
+| Detecta gravámenes y posibles riesgos.  | No garantiza que un inmueble esté libre de riesgos.     |
+| Genera un informe del estudio.          | No realiza trámites ante notarías o entidades públicas. |
 
 ### 1.4 Marco jurídico y fuentes
-¿Qué normas alimentan tu herramienta? Lista tu corpus normativo (leyes, decretos, sentencias — debe ser **pequeño y público**):
-- [ ] Norma/sentencia 1: [nombre + enlace]
-- [ ] Norma/sentencia 2: [nombre + enlace]
+- Código Civil Colombiano
+- Ley 1579 de 2012 – Estatuto de Registro de Instrumentos Públicos
+- Ley 527 de 1999 – Comercio electrónico y mensajes de datos
 
 ### 1.5 Nombre y lema
-Un nombre corto para tu herramienta y una frase que explique qué hace (la usarás en la demo del día de presentaciones).
-
+- Nombre: TítuloAI
+- Lema: Estudia títulos en minutos, identifica riesgos a tiempo.
 ---
 
 ## 🗺️ Parte 2 — Plan de desarrollo
