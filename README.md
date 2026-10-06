@@ -5,15 +5,6 @@
 > **Estudiante:** Nicolás Jaramillo Escobar
 > **Nombre del proyecto:** IA para estudio de Títulos
 > **Fecha de inicio:** 2026-08-25
-
----
-
-Bienvenido/a a tu repositorio de proyecto. **Este archivo es tu tablero de mando**: aquí describes tu proyecto, planificas su desarrollo y dejas evidencia del avance. Lo vas a completar por partes, siguiendo el curso.
-
-📌 Si ya habías escrito una descripción de tu proyecto cuando creaste el repo, la encuentras intacta en `README-ORIGINAL.md`. Úsala como punto de partida para la Parte 1 — no empieces de cero.
-
-**No necesitas saber programar.** Todo el código lo construirás con asistencia de IA (*vibe coding*). Tu valor como estudiante de derecho está en el problema que eliges, las fuentes que alimentas, las instrucciones que diseñas y el juicio crítico con el que evalúas el resultado.
-
 ---
 
 ## 📋 Parte 1 — Descripción del proyecto
