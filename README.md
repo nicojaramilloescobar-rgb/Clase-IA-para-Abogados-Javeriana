@@ -30,6 +30,10 @@ Abogados, notarías, inmobiliarias, bancos y compradores de bienes inmuebles que
 - Código Civil Colombiano
 - Ley 1579 de 2012 – Estatuto de Registro de Instrumentos Públicos
 - Ley 527 de 1999 – Comercio electrónico y mensajes de datos
+- Decreto 960/1970
+- Ley 675/2001
+- Ley 1581/2012
+- CONPES 4144/2025
 
 ### 1.5 Nombre y lema
 - Nombre: TítuloAI
